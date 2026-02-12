@@ -23,7 +23,7 @@ using UnityEngine;
 using Oculus.Interaction;
 using UnityEngine.Events;
 
-namespace Oculus.Interaction
+namespace InteractionExtensions
 {
     public class ResettingOneGrabRotateTransformer : MonoBehaviour, ITransformer
     {
