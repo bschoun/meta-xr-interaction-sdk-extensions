@@ -1,0 +1,13 @@
+{
+    "name": "com.bschoun.meta.xr.sdk.interaction.extensions",
+    "version": "0.0.1",
+    "displayName": "Meta XR Interaction SDK Extensions",
+    "description": "Extensions to Meta XR Interaction SDK that I use for many projects.",
+    "dependencies": {
+        "com.meta.xr.sdk.interaction": "81.0.0"
+    },
+    "author": {
+        "name": "Breawn Schoun",
+        "email": "breawnschoun@gmail.com"
+    }
+}
